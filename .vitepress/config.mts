@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "唐頂舜的專業分享空間",
+  title: "唐頂舜123的專業分享空間",
   description: "唐頂舜是服務台灣人的稅務專家",
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
