@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "唐頂舜的專業分享空間",
   description: "A VitePress Site",
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
